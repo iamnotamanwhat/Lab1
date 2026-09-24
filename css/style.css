@@ -1,34 +1,31 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-header{
+header {
     padding: 20px;
     background-color: #b3aeff;
     text-align: center;
 }
 
-.Intro{
-    width: 100%;;
+.Intro {
+    width: 100%;
 }
 
-.card-container{
+.Project {
     width: 100%;
     margin-bottom: 16px;
-}
-
-.Project{
     background-color: #b3aeff;
 }
 
-footer{
+footer {
     margin-top: 24px;
     background-color: #b3aeff76;
 }
 
-@media (min-width: 768px){
+@media (min-width: 768px) {
     .card-container article {
         display: inline-block;
         width: 30%;
